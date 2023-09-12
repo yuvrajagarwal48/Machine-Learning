@@ -1,4 +1,4 @@
-# This is Classification project 
+# This is Binary Classification project 
 
 ## Concepts Used:
 * Logistic Regression
